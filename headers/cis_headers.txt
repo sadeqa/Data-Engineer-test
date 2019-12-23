@@ -1,0 +1,12 @@
+cis
+longname
+form
+pathway
+auth_status
+procedure
+status
+market_date
+unknown
+ema
+holder
+collectivity

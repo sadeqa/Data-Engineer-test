@@ -1,0 +1,9 @@
+cis
+form
+sub_code
+sub_name
+sub_dose
+ref_dose
+sub_nature
+link
+unknow
